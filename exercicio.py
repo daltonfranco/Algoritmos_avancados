@@ -85,9 +85,9 @@ while True:
         if cont >= qtd_minima:    
             break
        
-        input("Não é possível fechar o teatro agora. Você não atingiu 50% + 1 de cadeiras vendidas/alugadas")
+        input("Não é possível fechar o teatro agora. Você não atingiu o numero minimo de cadeiras adquiridas")
 
 print(matriz_teatro)
-print(total) 
+print(total)
 
 
