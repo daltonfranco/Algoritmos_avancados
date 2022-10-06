@@ -6,5 +6,4 @@ def area(base, altura):
     area_tri = (base*altura)/2
     print(f"A area do triangulo é: {area_tri}")
 
-
-area(3,5)
+area(base, altura)
